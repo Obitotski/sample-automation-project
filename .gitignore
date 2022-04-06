@@ -24,7 +24,7 @@ $RECYCLE.BIN/
 *.lnk
 
 #IDEA
-.idea/*
+.idea
 
 #MacOS
 .DS_Store
